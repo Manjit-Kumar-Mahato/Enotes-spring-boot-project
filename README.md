@@ -11,6 +11,7 @@ A secure note management web application built using **Spring Boot**, **Spring S
 - 📝 Create New Notes
 - ✏️ Edit Existing Notes
 - 🗑️ Delete Notes
+- 📄 Pagination for Notes Listing
 - 📋 View All Notes
 - 🎨 Responsive UI with Bootstrap
 - 💾 Data Persistence using MySQL
@@ -31,6 +32,7 @@ A secure note management web application built using **Spring Boot**, **Spring S
 | MySQL | Relational Database |
 | Bootstrap | Frontend Styling |
 | Maven | Dependency Management |
+| Pagination | Page Management |
 
 ---
 
@@ -151,13 +153,15 @@ http://localhost:8080
 
 Through this project, I gained hands-on experience with:
 
-- Spring Boot application development
-- Implementing Spring Security
-- Working with Thymeleaf templates
-- Using Spring Data JPA and Hibernate
-- Managing relational databases with MySQL
-- Applying MVC architecture
-- Version control using Git and GitHub
+- Building web applications using Spring Boot
+- Implementing authentication and authorization with Spring Security
+- Developing dynamic views using Thymeleaf
+- Performing database operations using Spring Data JPA and Hibernate
+- Working with MySQL databases
+- Implementing pagination for efficient data retrieval and user-friendly navigation
+- Applying the MVC architectural pattern
+- Managing dependencies with Maven
+- Using Git and GitHub for version control and collaboration
 
 ---
 
